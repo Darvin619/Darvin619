@@ -16,7 +16,7 @@ Here are some of my key skills and areas of expertise:
 
 - **Selenium:** I'm skilled in automated testing using Selenium WebDriver, helping to accelerate the testing process and ensure test repeatability.
 
-- **Programming:** I have a good command of Core Java, which I use for test automation and scripting.
+- **Programming:** I have a good command of Core Java,with OOP's concept which I use for test automation and scripting.
 
 - **SQL:** My SQL knowledge enables me to perform database testing effectively and create complex database queries for data validation.
 
